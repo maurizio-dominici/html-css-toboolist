@@ -81,3 +81,8 @@ h1 {
   margin: 20px;
   border-style: solid;
 }
+
+.smal {
+  display: inline-block;
+  padding-left: 90px;
+}
