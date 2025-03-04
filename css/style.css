@@ -11,3 +11,19 @@
 body {
   background-color: rgb(246 248 250);
 }
+
+header {
+  background-color: white;
+}
+
+/* header */
+
+header .header-logo .img {
+  vertical-align: middle;
+}
+
+.logo {
+  font-size: 3rem;
+}
+
+/* utili */
