@@ -28,7 +28,14 @@ header {
   font-size: 3rem;
 }
 
-/* utili */
+/* UTILI */
+
+h1 {
+  font-size: 1.6rem;
+  padding-left: 50px;
+}
+
+/* maine */
 
 .container {
   max-width: 700px;
